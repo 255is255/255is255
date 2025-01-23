@@ -1,16 +1,43 @@
-## Hi there 👋
+<div style="background-color: #e0f7fa; padding: 20px; border-radius: 10px;">
 
-<!--
-**255is255/255is255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 안녕하세요 👋
+네트워크를 좋아하고 보안을 공부 중인 **최훈서**입니다.<br>
+보안과 AI 융합이 요즘 가장 큰 관심사입니다.  
+*(To be Continued...)*
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **경력**  
+- 🇰🇷 공군 한국연동통제소 정보보호담당 : 2019.12 ~ 2024.08  
+- 🎥 VOD 플랫폼 시스템 엔지니어 : 2017.08 ~ 2019.04  
+
+## **학력**  
+- 🎓 아주대학교 융합시스템공학과 4학년 졸업예정 (2022.03 ~ 2025.08)
+- 🏫 양영디지털고등학교 정보통신학과 졸업 (2015.03 ~ 2018.02)  
+
+## **자격증**  
+- 🖥️ 정보처리기사  
+- 🌐 CCNA  
+- 🛡️ 리눅스마스터 2급  
+- 🖱️ 컴퓨터활용능력 2급  
+- 📡 네트워크관리사 2급  
+
+## **수상내역**  
+- 🏆 공군 사이버 업무 유공 표창 (2023.12)  
+- 🏆 방위사업청 체계 성능개량사업 표창 (2021.09)  
+- 🥇 공군 정보통신 특기 교육과정 1위 (2019.12)  
+- 🥇 경기도 기능경기대회 사이버보안 금메달 (2017.04)  
+
+---
+
+## 🌐 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
+
+## ⚙️ **Security & Networking**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Firewall](https://img.shields.io/badge/Firewall-DD4814?style=flat-square&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
