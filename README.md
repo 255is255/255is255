@@ -1,11 +1,7 @@
-<div style="background-color: #e0f7fa; padding: 20px; border-radius: 10px;">
-
 ## 안녕하세요 👋
 네트워크를 좋아하고 보안을 공부 중인 **최훈서**입니다.<br>
 보안과 AI 융합이 요즘 가장 큰 관심사입니다.  
 *(To be Continued...)*
-
-</div>
 
 ---
 
