@@ -27,12 +27,25 @@
 
 ---
 
-## 🌐 **Languages**
+## **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white)
 
-## ⚙️ **Security & Networking**
+## **Infrastructure & Security**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
 ![Firewall](https://img.shields.io/badge/Firewall-DD4814?style=flat-square&logo=fortinet&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
+![NAC](https://img.shields.io/badge/NAC-00A1F1?style=flat-square&logo=Security&logoColor=white)
+![AntiVirus](https://img.shields.io/badge/AntiVirus-FF0000?style=flat-square&logo=McAfee&logoColor=white)
+
+## **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=Microsoft%20Word&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat-square&logo=Microsoft%20PowerPoint&logoColor=white)
+
+
