@@ -16,11 +16,11 @@
 >
 > **4. [TEAM] 딥러닝 기반 사물인식을 통한 로봇제어 시스템 프로젝트**
 > - **GitHub :** [Ajou-Computer_vision_and_robot_design](https://github.com/255is255/Ajou-Computer_vision_and_robot_design)
-> - **담당 :** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
+> - **담당 :** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축/개발
 >
 > **5. [TEAM] 딥러닝 기반 바리스타 로봇 구축 프로젝트**
 > - **GitHub :** [RoboBarista repositories](https://github.com/orgs/RoboBarista/repositories)
-> - **담당 :** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
+> - **담당 :** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축/개발
 ---
 
 <br>
