@@ -7,19 +7,19 @@
 > - **GitHub :** [Infrastructure-Development-Security](https://github.com/255is255/Infrastructure-Development-Security)
 >
 > **2. 모의 기업 인프라 및 보안 구축 프로젝트**
-> - **GitHub:** [Infrastructure-Development-Security](https://github.com/255is255/Infrastructure-Development-Security)
+> - **GitHub :** [Infrastructure-Development-Security](https://github.com/255is255/Infrastructure-Development-Security)
 >
 > **3. [TEAM] 인공지능 모델을 활용한 이모티콘 추천 프로젝트**
-> - **GitHub:** [Emoticon-recommendation](https://github.com/255is255/Emoticon-recommendation)
-> - **담당:** KcBERT를 활용한 한국어 감정 분류 및 이모티콘 추천 개발
+> - **GitHub :** [Emoticon-recommendation](https://github.com/255is255/Emoticon-recommendation)
+> - **담당 :** KcBERT를 활용한 한국어 감정 분류 및 이모티콘 추천 개발
 >
 > **4. [TEAM] 딥러닝 기반 사물인식을 통한 로봇제어 시스템 프로젝트**
-> - **GitHub:** [Ajou-Computer_vision_and_robot_design](https://github.com/255is255/Ajou-Computer_vision_and_robot_design)
-> - **담당:** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
+> - **GitHub :** [Ajou-Computer_vision_and_robot_design](https://github.com/255is255/Ajou-Computer_vision_and_robot_design)
+> - **담당 :** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
 >
 > **5. [TEAM] 딥러닝 기반 바리스타 로봇 구축 프로젝트**
-> - **GitHub:** [RoboBarista repositories](https://github.com/orgs/RoboBarista/repositories)
-> - **담당:** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
+> - **GitHub :** [RoboBarista repositories](https://github.com/orgs/RoboBarista/repositories)
+> - **담당 :** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
 
 
 ## **경력**  
