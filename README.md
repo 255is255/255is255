@@ -2,7 +2,8 @@
 보안과 AI 융합이 요즘 가장 큰 관심사입니다.  
 *(관심 프로젝트, 완료 프로젝트 업로드 중...)*
 
-> **Project**
+> **[!NOTE]**
+> 
 > **1. 리눅스 취약점 분석 자동화 플랫폼**
 > - **GitHub :** [Infrastructure-Development-Security](https://github.com/255is255/Infrastructure-Development-Security)
 >
