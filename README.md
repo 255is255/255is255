@@ -2,7 +2,25 @@
 보안과 AI 융합이 요즘 가장 큰 관심사입니다.  
 *(관심 프로젝트, 완료 프로젝트 업로드 중...)*
 
----
+> **Project**
+> **1. 리눅스 취약점 분석 자동화 플랫폼**
+> - **GitHub :** [Infrastructure-Development-Security](https://github.com/255is255/Infrastructure-Development-Security)
+>
+> **2. 모의 기업 인프라 및 보안 구축 프로젝트**
+> - **GitHub:** [Infrastructure-Development-Security](https://github.com/255is255/Infrastructure-Development-Security)
+>
+> **3. [TEAM] 인공지능 모델을 활용한 이모티콘 추천 프로젝트**
+> - **GitHub:** [Emoticon-recommendation](https://github.com/255is255/Emoticon-recommendation)
+> - **담당:** KcBERT를 활용한 한국어 감정 분류 및 이모티콘 추천 개발
+>
+> **4. [TEAM] 딥러닝 기반 사물인식을 통한 로봇제어 시스템 프로젝트**
+> - **GitHub:** [Ajou-Computer_vision_and_robot_design](https://github.com/255is255/Ajou-Computer_vision_and_robot_design)
+> - **담당:** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
+>
+> **5. [TEAM] 딥러닝 기반 바리스타 로봇 구축 프로젝트**
+> - **GitHub:** [RoboBarista repositories](https://github.com/orgs/RoboBarista/repositories)
+> - **담당:** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
+
 
 ## **경력**  
 - 🇰🇷 공군 한국연동통제소 정보보호담당 : 2019.12 ~ 2024.08  
