@@ -22,6 +22,7 @@
 > - **GitHub :** [RoboBarista repositories](https://github.com/orgs/RoboBarista/repositories)
 > - **담당 :** Python을 활용한 딥러닝 정보 수집 및 로봇 전송 서버 구축 및 개발
 
+<br>
 
 ## **경력**  
 - 🇰🇷 공군 한국연동통제소 정보보호담당 : 2019.12 ~ 2024.08  
