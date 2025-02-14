@@ -5,7 +5,7 @@
 > [!NOTE]
 > 
 > **1. 리눅스 취약점 분석 자동화 플랫폼**
-> - **GitHub :** [Linux-vulerability-assessment-tools](https://github.com/255is255/Linux-vulnerability-assessment-tools))
+> - **GitHub :** [Linux-vulerability-assessment-tools](https://github.com/255is255/Linux-vulnerability-assessment-tools)
 >
 > **2. 모의 기업 인프라 및 보안 구축 프로젝트**
 > - **GitHub :** [Infrastructure-Development-Security](https://github.com/255is255/Infrastructure-Development-Security)
