@@ -71,5 +71,3 @@
 ![Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=Microsoft%20Word&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat-square&logo=Microsoft%20PowerPoint&logoColor=white)
-
----
