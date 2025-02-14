@@ -50,7 +50,6 @@
 - 🥇 공군 정보통신 특기 교육과정 1위 (2019.12)  
 - 🥇 경기도 기능경기대회 사이버보안 금메달 (2017.04)  
 
----
 
 ## **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -73,4 +72,4 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=Microsoft%20Excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-D24726?style=flat-square&logo=Microsoft%20PowerPoint&logoColor=white)
 
-
+---
